@@ -1,1 +1,2 @@
-#!/bin/bash echo $NUM
+#!/bin/bash
+echo $NUM
